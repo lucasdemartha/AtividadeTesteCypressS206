@@ -31,7 +31,6 @@ Para executar o projeto basta realizar a cópia do repositório para sua máquin
 Para gerar o relatório HTML basta segui os seguintes comandos:
 `código inline`
 
-```js
 1. Adicionando as dependências necessárias para gerar o reporte de testes:
 npm i --save-dev cypress-mochawesome-reporter
 	
